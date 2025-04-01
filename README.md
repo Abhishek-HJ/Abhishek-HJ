@@ -3,12 +3,7 @@
 
 
 ### 🚀 About Me
-I'm a passionate software developer with experience in:
-- **Python** 🐍 (Django, Flask)
-- **Java** ☕ ( Data Structures & Algorithms)
-- **JavaScript** ⚡ 
-- **React** ⚛️ (Hooks, Redux, Next.js)
-- **Django** 🎯 (REST API, ORM)
+I'm a passionate software developer looking for SDE roles.
 
 ### 🛠️ My Skills
 💡 **Languages:** Python, Java, JavaScript  
