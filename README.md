@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** with a strong foundation in **Data Struc
 💡 **Languages:** Java, C++, C, Python, JavaScript  
 🔧 **Frameworks & Libraries:** Django, React, Express.js, Matplotlib  
 📊 **Databases:** MySQL, MongoDB  
-⚙️ **Tools & Technologies:** Git, VS Code, Docker, Postman  
+⚙️ **Tools & Technologies:** Git, VS Code 
 
 ### 🌟 What I Do  
 - **Full-Stack Web Development** using Django & React  
